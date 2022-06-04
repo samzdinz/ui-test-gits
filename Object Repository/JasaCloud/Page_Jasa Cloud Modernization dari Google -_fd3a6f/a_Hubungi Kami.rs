@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hubungi Kami</name>
+   <tag></tag>
+   <elementGuidId>334f46e1-cfe1-42e8-9d4a-6f3ecee47d8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='td-outer-wrap']/div[2]/div/div[2]/div/div[2]/div/div/div[8]/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.td-page-content.tagdiv-type > div.wp-block-group > div.wp-block-group__inner-container > div.wp-block-columns > div.wp-block-column > div.wp-block-buttons > div.wp-block-button.is-style-shadow > a.wp-block-button__link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6e1685f6-ee50-45d8-9ca8-2556cd5ef917</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-button__link</value>
+      <webElementGuid>920fabd1-6d93-46bb-8a8c-87370198d41d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://gits.id/#contact</value>
+      <webElementGuid>bfc51a33-dd8e-4c02-84bf-969843d93286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hubungi Kami</value>
+      <webElementGuid>098e3495-7ab6-41bb-99cf-4bd4b0b37c06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;td-outer-wrap&quot;)/div[@class=&quot;td-main-content-wrap td-container-wrap&quot;]/div[@class=&quot;td-container tdc-content-wrap&quot;]/div[@class=&quot;td-pb-row&quot;]/div[@class=&quot;td-pb-span12 td-main-content&quot;]/div[@class=&quot;td-page-content tagdiv-type&quot;]/div[@class=&quot;wp-block-group&quot;]/div[@class=&quot;wp-block-group__inner-container&quot;]/div[@class=&quot;wp-block-columns&quot;]/div[@class=&quot;wp-block-column&quot;]/div[@class=&quot;wp-block-buttons&quot;]/div[@class=&quot;wp-block-button is-style-shadow&quot;]/a[@class=&quot;wp-block-button__link&quot;]</value>
+      <webElementGuid>f86fc69c-0acc-4973-b5a6-76cd253ba74f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='td-outer-wrap']/div[2]/div/div[2]/div/div[2]/div/div/div[8]/div/div/div/a</value>
+      <webElementGuid>0a405fec-eeaa-4411-84ea-382e7dea9115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hubungi Kami')]</value>
+      <webElementGuid>8f9b97d5-a541-4c88-b4ac-31ac56f76d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gits.id/#contact'])[1]/following::a[1]</value>
+      <webElementGuid>e32ff49d-23cf-46fc-a4da-c8f920ab2ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='penyedia jasa cloud di Indonesia dari Google'])[1]/following::a[2]</value>
+      <webElementGuid>22661c81-3c82-4423-a1f7-b0d91eec9199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::a[1]</value>
+      <webElementGuid>8031111b-a8a9-4fb2-b03f-be151db48e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='connect@gits.id'])[1]/preceding::a[2]</value>
+      <webElementGuid>f0e29293-df21-4b20-854b-bab0af69a625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hubungi Kami']/parent::*</value>
+      <webElementGuid>c9cb47c6-8f84-459c-9996-f403a0c467e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://gits.id/#contact')])[3]</value>
+      <webElementGuid>229c99b3-2c59-4309-b3b6-0bbeccc58767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/a</value>
+      <webElementGuid>d2edd6c2-7e58-444b-befb-8e42a41a8186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://gits.id/#contact' and (text() = 'Hubungi Kami' or . = 'Hubungi Kami')]</value>
+      <webElementGuid>c4a3bead-4f24-4ac3-a114-841685a0e03d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

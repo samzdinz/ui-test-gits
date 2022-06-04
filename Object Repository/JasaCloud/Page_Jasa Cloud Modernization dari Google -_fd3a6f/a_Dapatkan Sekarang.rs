@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dapatkan Sekarang</name>
+   <tag></tag>
+   <elementGuidId>795ce8d3-228e-4883-ade5-40db30185c50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='td-outer-wrap']/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.wp-block-button__link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f95ac8cc-ec84-47b9-9623-99a0adc6c7c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-button__link</value>
+      <webElementGuid>899c121b-27d7-4d74-8d45-6abbcc442df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://gits.id/jasa-google-cloud-modernization/#est</value>
+      <webElementGuid>8ddfb190-96e5-4d96-b0e5-b359f4f44fef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dapatkan Sekarang</value>
+      <webElementGuid>3e6f10df-2ed4-4bae-b7eb-32eb043120c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;td-outer-wrap&quot;)/div[@class=&quot;td-main-content-wrap td-container-wrap&quot;]/div[@class=&quot;td-container tdc-content-wrap&quot;]/div[@class=&quot;td-pb-row&quot;]/div[@class=&quot;td-pb-span12 td-main-content&quot;]/div[@class=&quot;td-page-content tagdiv-type&quot;]/div[@class=&quot;wp-block-group&quot;]/div[@class=&quot;wp-block-group__inner-container&quot;]/div[@class=&quot;wp-block-group&quot;]/div[@class=&quot;wp-block-group__inner-container&quot;]/div[@class=&quot;wp-block-columns&quot;]/div[@class=&quot;wp-block-column&quot;]/div[@class=&quot;wp-block-buttons&quot;]/div[@class=&quot;wp-block-button is-style-shadow td_btn_large&quot;]/a[@class=&quot;wp-block-button__link&quot;]</value>
+      <webElementGuid>a7c9ce91-8c17-4222-acc8-fb781aecf008</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='td-outer-wrap']/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div/div/div/div/div/a</value>
+      <webElementGuid>4085c0d3-0c34-4124-841e-7d4e1e20c916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Dapatkan Sekarang')]</value>
+      <webElementGuid>baf0d0c5-7796-41df-82ab-546d3a2d32d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='diskon hingga $500'])[1]/following::a[1]</value>
+      <webElementGuid>01bd11e7-e0fc-494f-b665-5e55923ef4c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan'])[1]/following::a[1]</value>
+      <webElementGuid>3d78729c-fa6d-43c6-b963-f62dc43bf9a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Google Cloud'])[1]/preceding::a[1]</value>
+      <webElementGuid>62ecd279-d1b7-42fd-b5b2-75af989a6054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEBIH HEMAT HINGGA'])[1]/preceding::a[1]</value>
+      <webElementGuid>85adae8b-2592-4c30-9c3a-493ef0e116ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dapatkan Sekarang']/parent::*</value>
+      <webElementGuid>6c7255cb-80e3-4822-99a7-7e0e264ab60a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://gits.id/jasa-google-cloud-modernization/#est')]</value>
+      <webElementGuid>07de87ae-67bb-4a25-b6df-313c92100afb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/a</value>
+      <webElementGuid>86043a75-fe41-4f5e-bbe0-0382b2d9b049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://gits.id/jasa-google-cloud-modernization/#est' and (text() = 'Dapatkan Sekarang' or . = 'Dapatkan Sekarang')]</value>
+      <webElementGuid>9c424acc-4521-44cb-8188-ec1fe4829bfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

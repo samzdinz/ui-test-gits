@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_RAM per server (contoh 16 GB)_wpcf7-f_a50db6</name>
+   <tag></tag>
+   <elementGuidId>38b0ad1f-cdd4-46dd-b7d2-f4044d9fd50f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Dapatkan Sekarang']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.wpcf7-form-control.wpcf7-submit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c274d624-46da-4e07-b217-df2f0fd754c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>2142d82f-c0d2-4564-94f4-7dfb0f2af0d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Dapatkan Sekarang</value>
+      <webElementGuid>abfa90b6-6f22-44c4-81c0-45356a11fecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wpcf7-form-control wpcf7-submit</value>
+      <webElementGuid>c60ed23d-98ff-4759-85b4-b22c27713543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wpcf7-f8170-p5984-o1&quot;)/form[@class=&quot;wpcf7-form mailchimp-ext-0.5.48 init&quot;]/p[4]/input[@class=&quot;wpcf7-form-control wpcf7-submit&quot;]</value>
+      <webElementGuid>18e60615-242c-4f59-b8eb-45927e56ba50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Dapatkan Sekarang']</value>
+      <webElementGuid>71f64570-0aa1-4a8e-9346-ea8d7090173d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wpcf7-f8170-p5984-o1']/form/p[4]/input</value>
+      <webElementGuid>8d1ce9de-07fa-4a3c-a4a3-83d3e8624720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[4]/input</value>
+      <webElementGuid>3c3b2446-0da2-4cc8-85f6-2a768b1dc490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>c63ce73d-b0aa-40c7-a794-c7966e4fb829</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
